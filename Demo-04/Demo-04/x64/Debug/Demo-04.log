@@ -1,0 +1,16 @@
+﻿  03二维数组定义与使用.cpp
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(25,9): message : 请考虑在格式字符串中使用“%zd”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(27,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(27,9): message : 请考虑在格式字符串中使用“%zd”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(29,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(29,9): message : 请考虑在格式字符串中使用“%zd”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(31,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(31,9): message : 请考虑在格式字符串中使用“%lld”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(31,9): message : 请考虑在格式字符串中使用“%Id”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(31,9): message : 请考虑在格式字符串中使用“%I64d”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(33,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(33,9): message : 请考虑在格式字符串中使用“%lld”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(33,9): message : 请考虑在格式字符串中使用“%Id”
+E:\VS 2022 C\C Learn Demo\Demo-04\Demo-04\03二维数组定义与使用.cpp(33,9): message : 请考虑在格式字符串中使用“%I64d”
+  Demo-04.vcxproj -> E:\VS 2022 C\C Learn Demo\Demo-04\x64\Debug\Demo-04.exe
