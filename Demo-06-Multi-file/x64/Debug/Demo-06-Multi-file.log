@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\VS 2022 C\C Learn Demo\Demo-06-Multi-file\main.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Demo-06-Multi-file.vcxproj -> E:\VS 2022 C\C Learn Demo\Demo-06-Multi-file\x64\Debug\Demo-06-Multi-file.exe

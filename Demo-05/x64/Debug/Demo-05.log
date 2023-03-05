@@ -1,0 +1,4 @@
+﻿  08递归实现将参数字符串中的字符反向排列.cpp
+E:\VS 2022 C\C Learn Demo\Demo-05\08递归实现将参数字符串中的字符反向排列.cpp(20,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\VS 2022 C\C Learn Demo\Demo-05\08递归实现将参数字符串中的字符反向排列.cpp(20,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  Demo-05.vcxproj -> E:\VS 2022 C\C Learn Demo\Demo-05\x64\Debug\Demo-05.exe
